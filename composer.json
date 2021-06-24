@@ -1,5 +1,5 @@
 {
-    "name": "PriorNotify/HelloWorld",
+    "name": "prior-notify/hello-world",
     "description": "create integration from config",
     "require": {
         "php": "~7.2.0|~7.3.0",
