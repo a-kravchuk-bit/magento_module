@@ -1,5 +1,5 @@
 {
-    "name": "Mageplaza_HelloWorld",
+    "name": "Mageplaza/HelloWorld",
     "description": "create integration from config",
     "require": {
         "php": "~7.2.0|~7.3.0",
