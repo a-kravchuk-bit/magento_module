@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add id="Mageplaza_HelloWorld::system_prior_notify" title="PriorNotify" translate="title" module="Mageplaza_HelloWorld" sortOrder="40" parent="Magento_Backend::stores_settings" action="exampleadminnewpage/helloworld/index" resource="Mageplaza_HelloWorld::order_statuses22"/>
+    </menu>
+</config>
