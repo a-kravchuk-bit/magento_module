@@ -1,5 +1,5 @@
 <?php
-namespace Mageplaza\HelloWorld\Controller\Adminhtml\HelloWorld;
+namespace PriorNotify\HelloWorld\Controller\Adminhtml\HelloWorld;
 
 use Magento\Backend\App\Action;
 use Magento\Backend\App\Action\Context;
@@ -12,7 +12,7 @@ use Magento\Framework\View\Result\PageFactory;
  */
 class Index extends Action implements HttpGetActionInterface
 {
-    const MENU_ID = 'Mageplaza_HelloWorld::system_prior_notify';
+    const MENU_ID = 'PriorNotify_HelloWorld::system_prior_notify';
 
     /**
      * @var PageFactory

@@ -1,5 +1,5 @@
 <?php
-    namespace Mageplaza\HelloWorld\Setup;
+    namespace PriorNotify\HelloWorld\Setup;
 
     use Magento\Framework\Setup\ModuleContextInterface;
     use Magento\Framework\Setup\ModuleDataSetupInterface;

@@ -6,11 +6,11 @@
         </action>
     </referenceBlock>
     <head>
-        <css src="Mageplaza_HelloWorld::css/priorNotify.css"/>
+        <css src="PriorNotify_HelloWorld::css/priorNotify.css"/>
     </head>
     <body>
         <referenceContainer name="content">
-            <block class="Magento\Backend\Block\Template" template="Mageplaza_HelloWorld::helloworld.phtml"/>
+            <block class="Magento\Backend\Block\Template" template="PriorNotify_HelloWorld::helloworld.phtml"/>
         </referenceContainer>
     </body>
 </page>
